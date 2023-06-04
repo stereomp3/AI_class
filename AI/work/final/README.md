@@ -16,6 +16,8 @@
 
 
 
+BERT是google開發的模型，使用muti head attention，讓詞跟詞之間的關係更容易被學習，我透過fine-turn BERT base模型(參數規模110 M)，在BERT pre-train model後面加上一層分類器，開發了一個從使用者輸入的症狀推測疾病的模型。
+
 
 
 下面大概介紹我如何訓練和最後訓練出來的模型指標
