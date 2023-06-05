@@ -9,7 +9,7 @@
 |   [week05](04.md)   | [搜尋算法](04.md#搜尋算法)<br />                             | 2023/03/16 |
 | **[week06](05.md)** | [梯度介紹](05.md#梯度介紹)<br />[梯度證明](05.md#梯度證明)<br /> | 2023/03/23 |
 |   [week07](06.md)   | [深度優先與廣度優先](06.md#深度優先與廣度優先)<br />         | 2023/03/30 |
-|   [week08](07.md)   | [chat GPT](07.md#chat GPT)<br /><ul><li>gomoku<li>minimax</li><li>Alpha-Beta 修剪法</li></ul> | 2023/04/06 |
+|   [week08](07.md)   | [chat GPT](07.md#chat GPT) <br /><ul><li>gomoku<li>minimax</li><li>Alpha-Beta 修剪法</li></ul> | 2023/04/06 |
 |   [week09](08.md)   | [人工智慧下棋](08.md#人工智慧下棋)<br /><ul><li>GptHello<li>shellgpt</li></ul> | 2023/04/13 |
 |   [week10](09.md)   | [語法理論](09.md#語法理論)<br />[人工智慧分類](09.md#人工智慧分類)<br /> | 2023/04/20 |
 |   [week11](10.md)   | [自然語言處裡](10.md#自然語言處裡)<br />                     | 2023/04/27 |
